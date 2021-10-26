@@ -39,20 +39,35 @@ main{
 .mesmalinha{
     display: inline-flex;
     width: 500px;
-    height: 600px;
+    height: 700px;
      
 }
 
 /*Parte da arte*/
 
-
-
 .desenho{
     width: 470px;
     height: 460px;
    display: flex;
-   margin-top: 43%;
+   margin-top: 8%;
    margin-left: -15%;
   
+}
+
+.arteh1{
+    font-family: 'Rammetto One';
+    color: #EEEEEE;
+    font-size: 3.5em;
+    margin-left: -10%;
+    marg
+}
+
+.arteh3{
+    font-family: 'Gabriela';
+    color: #EEEEEE;
+    font-size: 2em;
+    margin-left: -10%;
+    margin-top: -5%;
+
 }
 
