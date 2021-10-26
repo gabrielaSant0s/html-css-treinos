@@ -20,6 +20,7 @@ main{
     padding-right: 115.5%;
     border-top-right-radius: 40px;
     border-bottom-right-radius: 40px;
+    display: inline-flex;
     
 }
 
@@ -68,6 +69,24 @@ main{
     font-size: 2em;
     margin-left: -10%;
     margin-top: -5%;
+}
+
+/*Parte do login*/
+
+.loginh1{
+    font-family: 'Assistant';
+    color: #37474F;
+    font-size: 3.5em;
+    
+   
+
+}
+
+#dreams2{
+    font-family: 'Assistant';
+    color: #5C1655;
+    font-size: 3.5em;
+    font-weight: bold;
 
 }
 
